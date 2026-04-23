@@ -16,13 +16,9 @@
 </div>
 
 <div>
-    <strong>arXiv 2026</strong>
-</div>
-
-<div>
     <h4 align="center">
-        <a href="https://arxiv.org/abs/xxxx.xxxxx" target='_blank'>
-        <img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg">
+        <a href="https://arxiv.org/abs/2604.20705" target='_blank'>
+        <img src="https://img.shields.io/badge/arXiv-2604.20705-b31b1b.svg">
         </a>
         <a href="https://github.com/Jiahao000/SSL-R1" target='_blank'>
         <img src="https://img.shields.io/badge/Project-Page-green">
@@ -53,14 +49,14 @@
     </table>
 </html>
 
-📖 For more results, please refer to our <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">paper</a>
+📖 For more results, please refer to our <a href="https://arxiv.org/abs/2604.20705" target="_blank">paper</a>
 
 ---
 
 </div>
 
 ## 📣 News
-- [04/2026] 🔥 SSL-R1 is released on [arXiv](https://arxiv.org/abs/xxxx.xxxxx).
+- [04/2026] 🔥 SSL-R1 is released on [arXiv](https://arxiv.org/abs/2604.20705).
 
 ## 🌟 Method
 
@@ -83,10 +79,10 @@ We provide some qualitative examples of the baseline model (Qwen2.5-VL-7B) vs. o
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{xie2026sslr1,
+@article{xie2026ssl,
   title = {SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models},
   author = {Xie, Jiahao and Tonioni, Alessio and Rauschmayr, Nathalie and Tombari, Federico and Schiele, Bernt},
-  journal={arXiv},
+  journal = {arXiv preprint arXiv:2604.20705},
   year = {2026}
 }
 ```

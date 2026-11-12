@@ -3,22 +3,28 @@
 <h1>SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models</h1>
 
 <div>
-    <a href='https://jiahao000.github.io/' target='_blank'>Jiahao Xie</a><sup>1,2</sup>&emsp;
-    <a href='https://alessiotonioni.github.io/' target='_blank'>Alessio Tonioni</a><sup>3</sup>&emsp;
-    <a href='https://scholar.google.com/citations?user=OglqhoUAAAAJ&hl=en' target='_blank'>Nathalie Rauschmayr</a><sup>3</sup>&emsp;
-    <a href='https://federicotombari.github.io/' target='_blank'>Federico Tombari</a><sup>3</sup>&emsp;
-    <a href='https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en' target='_blank'>Bernt Schiele</a><sup>1,2</sup>
+    <a href='https://jiahao000.github.io/' target='_blank'>Jiahao Xie</a><sup>1</sup>&emsp;
+    <a href='https://alessiotonioni.github.io/' target='_blank'>Alessio Tonioni</a><sup>2</sup>&emsp;
+    <a href='https://scholar.google.com/citations?user=OglqhoUAAAAJ&hl=en' target='_blank'>Nathalie Rauschmayr</a><sup>2</sup>&emsp;
+    <a href='https://federicotombari.github.io/' target='_blank'>Federico Tombari</a><sup>2</sup>&emsp;
+    <a href='https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en' target='_blank'>Bernt Schiele</a><sup>1</sup>
 </div>
 <div>
     <sup>1</sup>Max Planck Institute for Informatics&emsp;
-    <sup>2</sup>VIA Research Center&emsp;
-    <sup>3</sup>Google
+    <sup>2</sup>Google
+</div>
+
+<div>
+    :triangular_flag_on_post: <strong>ACM MM 2026 (Oral)</strong>
 </div>
 
 <div>
     <h4 align="center">
         <a href="https://arxiv.org/abs/2604.20705" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv-2604.20705-b31b1b.svg">
+        </a>
+        <a href="https://doi.org/10.1145/3767308.3836276" target='_blank'>
+        <img src="https://img.shields.io/badge/ACM-DOI-yellow">
         </a>
         <a href="https://github.com/Jiahao000/SSL-R1" target='_blank'>
         <img src="https://img.shields.io/badge/Project-Page-green">
@@ -56,7 +62,9 @@
 </div>
 
 ## 📣 News
-- [04/2026] 🔥 SSL-R1 is released on [arXiv](https://arxiv.org/abs/2604.20705).
+- [08/2026] 🔥 SSL-R1 is selected for **Oral** Presentation.
+- [07/2026] 🔥 SSL-R1 is accepted to [ACM MM 2026](https://2026.acmmm.org/).
+- [04/2026] 👀 SSL-R1 is released on [arXiv](https://arxiv.org/abs/2604.20705).
 
 ## 🌟 Method
 
@@ -79,10 +87,10 @@ We provide some qualitative examples of the baseline model (Qwen2.5-VL-7B) vs. o
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{xie2026ssl,
+@inproceedings{xie2026ssl,
   title = {SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models},
   author = {Xie, Jiahao and Tonioni, Alessio and Rauschmayr, Nathalie and Tombari, Federico and Schiele, Bernt},
-  journal = {arXiv preprint arXiv:2604.20705},
+  booktitle = {ACM MM},
   year = {2026}
 }
 ```
